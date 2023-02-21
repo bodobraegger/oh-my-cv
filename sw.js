@@ -84,7 +84,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/apex-0b2071d4.js",
     "revision": null
   }, {
-    "url": "assets/app-4e482258.js",
+    "url": "assets/app-227b94c9.js",
     "revision": null
   }, {
     "url": "assets/azcli-190356b5.js",
@@ -159,7 +159,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/css.worker-99e39b79.js",
     "revision": null
   }, {
-    "url": "assets/cssMode-08b33ff7.js",
+    "url": "assets/cssMode-365de3f8.js",
     "revision": null
   }, {
     "url": "assets/cypher-cba4566f.js",
@@ -177,13 +177,13 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/edit-0bd70166.css",
     "revision": null
   }, {
-    "url": "assets/edit-fa221b4a.js",
+    "url": "assets/edit-a1c64e14.js",
     "revision": null
   }, {
     "url": "assets/editor-c8553017.css",
     "revision": null
   }, {
-    "url": "assets/editor.main-dc7ab5b5.js",
+    "url": "assets/editor.main-4a963a62.js",
     "revision": null
   }, {
     "url": "assets/editor.worker-db229822.js",
@@ -198,7 +198,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/flow9-38712bd3.js",
     "revision": null
   }, {
-    "url": "assets/freemarker2-9b1bdaf3.js",
+    "url": "assets/freemarker2-c8b3ed35.js",
     "revision": null
   }, {
     "url": "assets/fsharp-71c17f08.js",
@@ -210,25 +210,25 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/graphql-4b2f9989.js",
     "revision": null
   }, {
-    "url": "assets/handlebars-12c1d8b4.js",
+    "url": "assets/handlebars-90606c31.js",
     "revision": null
   }, {
     "url": "assets/hcl-f5583a08.js",
     "revision": null
   }, {
-    "url": "assets/Header-7a7c0643.js",
+    "url": "assets/Header-496e6f89.js",
     "revision": null
   }, {
-    "url": "assets/html-4f3cf001.js",
+    "url": "assets/html-198ed997.js",
     "revision": null
   }, {
-    "url": "assets/htmlMode-61556e98.js",
-    "revision": null
-  }, {
-    "url": "assets/index-352f3081.js",
+    "url": "assets/htmlMode-4de16863.js",
     "revision": null
   }, {
     "url": "assets/index-9943f8a7.css",
+    "revision": null
+  }, {
+    "url": "assets/index-b68f1b45.js",
     "revision": null
   }, {
     "url": "assets/ini-93327bda.js",
@@ -252,10 +252,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/java-594fa86f.js",
     "revision": null
   }, {
-    "url": "assets/javascript-db1da9c1.js",
+    "url": "assets/javascript-7494c88c.js",
     "revision": null
   }, {
-    "url": "assets/jsonMode-eb932c8f.js",
+    "url": "assets/jsonMode-4f7a9314.js",
     "revision": null
   }, {
     "url": "assets/julia-0007448b.js",
@@ -387,7 +387,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/lexon-9e065f08.js",
     "revision": null
   }, {
-    "url": "assets/liquid-6b23f32f.js",
+    "url": "assets/liquid-65356eba.js",
     "revision": null
   }, {
     "url": "assets/lua-f5c339e1.js",
@@ -444,7 +444,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/pug-2dd33d7b.js",
     "revision": null
   }, {
-    "url": "assets/python-1546a77f.js",
+    "url": "assets/python-2e7eedd3.js",
     "revision": null
   }, {
     "url": "assets/qsharp-52d3483a.js",
@@ -453,7 +453,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/r-419d1932.js",
     "revision": null
   }, {
-    "url": "assets/razor-0e78e081.js",
+    "url": "assets/razor-d76e1ec9.js",
     "revision": null
   }, {
     "url": "assets/redis-48ffdd95.js",
@@ -483,10 +483,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/restructuredtext-2b6de06c.js",
     "revision": null
   }, {
-    "url": "assets/resumes-93abbcb2.css",
+    "url": "assets/resumes-77080d71.js",
     "revision": null
   }, {
-    "url": "assets/resumes-e9a1eb4d.js",
+    "url": "assets/resumes-93abbcb2.css",
     "revision": null
   }, {
     "url": "assets/ruby-3203ad6f.js",
@@ -534,19 +534,19 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/tcl-ef3a1af5.js",
     "revision": null
   }, {
-    "url": "assets/toast-7eeb938d.js",
+    "url": "assets/toast-5660e7e1.js",
     "revision": null
   }, {
     "url": "assets/toast-92a32cb2.css",
     "revision": null
   }, {
-    "url": "assets/tsMode-1b8cdec5.js",
+    "url": "assets/tsMode-758c94ce.js",
     "revision": null
   }, {
     "url": "assets/twig-a6c466d1.js",
     "revision": null
   }, {
-    "url": "assets/typescript-e9c57476.js",
+    "url": "assets/typescript-fe9684ad.js",
     "revision": null
   }, {
     "url": "assets/vb-dc8b6e66.js",
@@ -558,26 +558,26 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/w9-6f2841e9.ttf",
     "revision": null
   }, {
-    "url": "assets/xml-36952549.js",
+    "url": "assets/xml-02bd8a9a.js",
     "revision": null
   }, {
-    "url": "assets/yaml-035f228d.js",
+    "url": "assets/yaml-a8cd9011.js",
     "revision": null
   }, {
     "url": "edit.html",
-    "revision": "6b4633a65195771111654cf419411bca"
+    "revision": "bb7b9bd57bd555cd9fb62985a6d17668"
   }, {
     "url": "index.html",
-    "revision": "86b2cd9a9ad84b30908202567d030eb1"
+    "revision": "24f61ea22df04709931379d4e1b3b8a6"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "zh-cn/edit.html",
-    "revision": "e767b8cf06288f0e0f2078687bcb4829"
+    "revision": "944e09359d9b862aad9e3090ebe9cfd3"
   }, {
     "url": "zh-cn/index.html",
-    "revision": "65bb90cec9c7fd082e2d4b7c91e1d47f"
+    "revision": "db8ec16cbf3852793359efb6b698e54b"
   }, {
     "url": "pwa-192x192.png",
     "revision": "e3ee23607a02913fa308a010c3f732be"
