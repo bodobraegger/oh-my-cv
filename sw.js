@@ -84,7 +84,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/apex-0b2071d4.js",
     "revision": null
   }, {
-    "url": "assets/app-298725bc.js",
+    "url": "assets/app-4e482258.js",
     "revision": null
   }, {
     "url": "assets/azcli-190356b5.js",
@@ -159,7 +159,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/css.worker-99e39b79.js",
     "revision": null
   }, {
-    "url": "assets/cssMode-fc1f1d01.js",
+    "url": "assets/cssMode-08b33ff7.js",
     "revision": null
   }, {
     "url": "assets/cypher-cba4566f.js",
@@ -177,13 +177,13 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/edit-0bd70166.css",
     "revision": null
   }, {
-    "url": "assets/edit-88ad40bf.js",
+    "url": "assets/edit-fa221b4a.js",
     "revision": null
   }, {
     "url": "assets/editor-c8553017.css",
     "revision": null
   }, {
-    "url": "assets/editor.main-3d9051f9.js",
+    "url": "assets/editor.main-dc7ab5b5.js",
     "revision": null
   }, {
     "url": "assets/editor.worker-db229822.js",
@@ -198,7 +198,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/flow9-38712bd3.js",
     "revision": null
   }, {
-    "url": "assets/freemarker2-488f374a.js",
+    "url": "assets/freemarker2-9b1bdaf3.js",
     "revision": null
   }, {
     "url": "assets/fsharp-71c17f08.js",
@@ -210,25 +210,25 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/graphql-4b2f9989.js",
     "revision": null
   }, {
-    "url": "assets/handlebars-6027a40e.js",
+    "url": "assets/handlebars-12c1d8b4.js",
     "revision": null
   }, {
     "url": "assets/hcl-f5583a08.js",
     "revision": null
   }, {
-    "url": "assets/html-feff0924.js",
+    "url": "assets/Header-7a7c0643.js",
     "revision": null
   }, {
-    "url": "assets/htmlMode-efd21d5e.js",
+    "url": "assets/html-4f3cf001.js",
     "revision": null
   }, {
-    "url": "assets/index-24a5faf5.js",
+    "url": "assets/htmlMode-61556e98.js",
     "revision": null
   }, {
-    "url": "assets/index-38878e63.css",
+    "url": "assets/index-352f3081.js",
     "revision": null
   }, {
-    "url": "assets/index-93abbcb2.css",
+    "url": "assets/index-9943f8a7.css",
     "revision": null
   }, {
     "url": "assets/ini-93327bda.js",
@@ -252,10 +252,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/java-594fa86f.js",
     "revision": null
   }, {
-    "url": "assets/javascript-97fdf28c.js",
+    "url": "assets/javascript-db1da9c1.js",
     "revision": null
   }, {
-    "url": "assets/jsonMode-03cb5fd4.js",
+    "url": "assets/jsonMode-eb932c8f.js",
     "revision": null
   }, {
     "url": "assets/julia-0007448b.js",
@@ -387,7 +387,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/lexon-9e065f08.js",
     "revision": null
   }, {
-    "url": "assets/liquid-03d3ae5e.js",
+    "url": "assets/liquid-6b23f32f.js",
     "revision": null
   }, {
     "url": "assets/lua-f5c339e1.js",
@@ -444,7 +444,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/pug-2dd33d7b.js",
     "revision": null
   }, {
-    "url": "assets/python-f3164d07.js",
+    "url": "assets/python-1546a77f.js",
     "revision": null
   }, {
     "url": "assets/qsharp-52d3483a.js",
@@ -453,7 +453,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/r-419d1932.js",
     "revision": null
   }, {
-    "url": "assets/razor-71f231ea.js",
+    "url": "assets/razor-0e78e081.js",
     "revision": null
   }, {
     "url": "assets/redis-48ffdd95.js",
@@ -481,6 +481,12 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "assets/restructuredtext-2b6de06c.js",
+    "revision": null
+  }, {
+    "url": "assets/resumes-93abbcb2.css",
+    "revision": null
+  }, {
+    "url": "assets/resumes-e9a1eb4d.js",
     "revision": null
   }, {
     "url": "assets/ruby-3203ad6f.js",
@@ -528,19 +534,19 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/tcl-ef3a1af5.js",
     "revision": null
   }, {
-    "url": "assets/toast-85fba351.js",
+    "url": "assets/toast-7eeb938d.js",
     "revision": null
   }, {
     "url": "assets/toast-92a32cb2.css",
     "revision": null
   }, {
-    "url": "assets/tsMode-7275b0ee.js",
+    "url": "assets/tsMode-1b8cdec5.js",
     "revision": null
   }, {
     "url": "assets/twig-a6c466d1.js",
     "revision": null
   }, {
-    "url": "assets/typescript-e88f5df9.js",
+    "url": "assets/typescript-e9c57476.js",
     "revision": null
   }, {
     "url": "assets/vb-dc8b6e66.js",
@@ -552,26 +558,26 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/w9-6f2841e9.ttf",
     "revision": null
   }, {
-    "url": "assets/xml-caca872d.js",
+    "url": "assets/xml-36952549.js",
     "revision": null
   }, {
-    "url": "assets/yaml-a282fcde.js",
+    "url": "assets/yaml-035f228d.js",
     "revision": null
   }, {
     "url": "edit.html",
-    "revision": "ed7c9d66bdee4e7c97eaa6c3bec079c3"
+    "revision": "6b4633a65195771111654cf419411bca"
   }, {
     "url": "index.html",
-    "revision": "3ad0271091850002ae554298feb1570f"
+    "revision": "86b2cd9a9ad84b30908202567d030eb1"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "zh-cn/edit.html",
-    "revision": "1b9a29890c0c4f9791aa898458e64f20"
+    "revision": "e767b8cf06288f0e0f2078687bcb4829"
   }, {
     "url": "zh-cn/index.html",
-    "revision": "32a4ec5554e75bea62e60fe2257ab2d0"
+    "revision": "65bb90cec9c7fd082e2d4b7c91e1d47f"
   }, {
     "url": "pwa-192x192.png",
     "revision": "e3ee23607a02913fa308a010c3f732be"
@@ -592,7 +598,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "revision": "a3343345003f1a535c38ceb6a8baa4e9"
   }, {
     "url": "manifest.webmanifest",
-    "revision": "2c0ac7b2bf5200b12dadde901fd5a44a"
+    "revision": "6c8071e7db080d5e61d66b71e7129e31"
   }], {});
   workbox.cleanupOutdatedCaches();
   workbox.registerRoute(new workbox.NavigationRoute(workbox.createHandlerBoundToURL("index.html")));
