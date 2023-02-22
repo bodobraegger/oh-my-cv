@@ -84,7 +84,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/apex-0b2071d4.js",
     "revision": null
   }, {
-    "url": "assets/app-227b94c9.js",
+    "url": "assets/app-9694ef71.js",
     "revision": null
   }, {
     "url": "assets/azcli-190356b5.js",
@@ -159,7 +159,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/css.worker-99e39b79.js",
     "revision": null
   }, {
-    "url": "assets/cssMode-365de3f8.js",
+    "url": "assets/cssMode-52a5e7d5.js",
     "revision": null
   }, {
     "url": "assets/cypher-cba4566f.js",
@@ -177,13 +177,13 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/edit-0bd70166.css",
     "revision": null
   }, {
-    "url": "assets/edit-a1c64e14.js",
+    "url": "assets/edit-b5a54c41.js",
     "revision": null
   }, {
     "url": "assets/editor-c8553017.css",
     "revision": null
   }, {
-    "url": "assets/editor.main-4a963a62.js",
+    "url": "assets/editor.main-abf3fcc0.js",
     "revision": null
   }, {
     "url": "assets/editor.worker-db229822.js",
@@ -198,7 +198,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/flow9-38712bd3.js",
     "revision": null
   }, {
-    "url": "assets/freemarker2-c8b3ed35.js",
+    "url": "assets/freemarker2-c5ab5f8f.js",
     "revision": null
   }, {
     "url": "assets/fsharp-71c17f08.js",
@@ -210,25 +210,25 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/graphql-4b2f9989.js",
     "revision": null
   }, {
-    "url": "assets/handlebars-90606c31.js",
+    "url": "assets/handlebars-56683309.js",
     "revision": null
   }, {
     "url": "assets/hcl-f5583a08.js",
     "revision": null
   }, {
-    "url": "assets/Header-496e6f89.js",
+    "url": "assets/Header-d29de525.js",
     "revision": null
   }, {
-    "url": "assets/html-198ed997.js",
+    "url": "assets/html-b5b0f6ef.js",
     "revision": null
   }, {
-    "url": "assets/htmlMode-4de16863.js",
+    "url": "assets/htmlMode-de34816e.js",
     "revision": null
   }, {
-    "url": "assets/index-9943f8a7.css",
+    "url": "assets/index-1cca78b2.css",
     "revision": null
   }, {
-    "url": "assets/index-b68f1b45.js",
+    "url": "assets/index-835f1936.js",
     "revision": null
   }, {
     "url": "assets/ini-93327bda.js",
@@ -252,10 +252,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/java-594fa86f.js",
     "revision": null
   }, {
-    "url": "assets/javascript-7494c88c.js",
+    "url": "assets/javascript-669cff65.js",
     "revision": null
   }, {
-    "url": "assets/jsonMode-4f7a9314.js",
+    "url": "assets/jsonMode-9eec3b7c.js",
     "revision": null
   }, {
     "url": "assets/julia-0007448b.js",
@@ -387,7 +387,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/lexon-9e065f08.js",
     "revision": null
   }, {
-    "url": "assets/liquid-65356eba.js",
+    "url": "assets/liquid-cd2d1b37.js",
     "revision": null
   }, {
     "url": "assets/lua-f5c339e1.js",
@@ -444,7 +444,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/pug-2dd33d7b.js",
     "revision": null
   }, {
-    "url": "assets/python-2e7eedd3.js",
+    "url": "assets/python-054ab9b6.js",
     "revision": null
   }, {
     "url": "assets/qsharp-52d3483a.js",
@@ -453,7 +453,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/r-419d1932.js",
     "revision": null
   }, {
-    "url": "assets/razor-d76e1ec9.js",
+    "url": "assets/razor-0b342eb3.js",
     "revision": null
   }, {
     "url": "assets/redis-48ffdd95.js",
@@ -483,10 +483,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/restructuredtext-2b6de06c.js",
     "revision": null
   }, {
-    "url": "assets/resumes-77080d71.js",
+    "url": "assets/resumes-18e979de.css",
     "revision": null
   }, {
-    "url": "assets/resumes-93abbcb2.css",
+    "url": "assets/resumes-a9a79b14.js",
     "revision": null
   }, {
     "url": "assets/ruby-3203ad6f.js",
@@ -534,19 +534,19 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/tcl-ef3a1af5.js",
     "revision": null
   }, {
-    "url": "assets/toast-5660e7e1.js",
+    "url": "assets/toast-4642deff.css",
     "revision": null
   }, {
-    "url": "assets/toast-92a32cb2.css",
+    "url": "assets/toast-4e95b767.js",
     "revision": null
   }, {
-    "url": "assets/tsMode-758c94ce.js",
+    "url": "assets/tsMode-320a6242.js",
     "revision": null
   }, {
     "url": "assets/twig-a6c466d1.js",
     "revision": null
   }, {
-    "url": "assets/typescript-fe9684ad.js",
+    "url": "assets/typescript-60344465.js",
     "revision": null
   }, {
     "url": "assets/vb-dc8b6e66.js",
@@ -558,26 +558,32 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/w9-6f2841e9.ttf",
     "revision": null
   }, {
-    "url": "assets/xml-02bd8a9a.js",
+    "url": "assets/xml-4ccb3e2e.js",
     "revision": null
   }, {
-    "url": "assets/yaml-a8cd9011.js",
+    "url": "assets/yaml-7fc99973.js",
     "revision": null
   }, {
     "url": "edit.html",
-    "revision": "bb7b9bd57bd555cd9fb62985a6d17668"
+    "revision": "9e92013528694db9976655752e0d7114"
   }, {
     "url": "index.html",
-    "revision": "24f61ea22df04709931379d4e1b3b8a6"
+    "revision": "ff5d688e5b6d6e68b9ec5cc06beff227"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
+    "url": "resumes.html",
+    "revision": "6a682823dedeaecfca1a90392d0a718f"
+  }, {
     "url": "zh-cn/edit.html",
-    "revision": "944e09359d9b862aad9e3090ebe9cfd3"
+    "revision": "1695d7329fe1d1ea9e2a878a841e4eb7"
   }, {
     "url": "zh-cn/index.html",
-    "revision": "db8ec16cbf3852793359efb6b698e54b"
+    "revision": "5392d8a8862ae453c655cfefc3730b2c"
+  }, {
+    "url": "zh-cn/resumes.html",
+    "revision": "e04b5a3b8fe91f9951527f352affe4e6"
   }, {
     "url": "pwa-192x192.png",
     "revision": "e3ee23607a02913fa308a010c3f732be"
