@@ -84,7 +84,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/apex-0b2071d4.js",
     "revision": null
   }, {
-    "url": "assets/app-9a23e75e.js",
+    "url": "assets/app-e198c903.js",
     "revision": null
   }, {
     "url": "assets/azcli-190356b5.js",
@@ -159,7 +159,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/css.worker-99e39b79.js",
     "revision": null
   }, {
-    "url": "assets/cssMode-c7a12a5d.js",
+    "url": "assets/cssMode-ce708681.js",
     "revision": null
   }, {
     "url": "assets/cypher-cba4566f.js",
@@ -174,16 +174,16 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/ecl-c14b226e.js",
     "revision": null
   }, {
-    "url": "assets/edit-0bd70166.css",
+    "url": "assets/edit-05df0bef.js",
     "revision": null
   }, {
-    "url": "assets/edit-89706af0.js",
+    "url": "assets/edit-0bd70166.css",
     "revision": null
   }, {
     "url": "assets/editor-c8553017.css",
     "revision": null
   }, {
-    "url": "assets/editor.main-013fa253.js",
+    "url": "assets/editor.main-fbf683ec.js",
     "revision": null
   }, {
     "url": "assets/editor.worker-db229822.js",
@@ -198,7 +198,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/flow9-38712bd3.js",
     "revision": null
   }, {
-    "url": "assets/freemarker2-55d54fa5.js",
+    "url": "assets/freemarker2-7fe9b311.js",
     "revision": null
   }, {
     "url": "assets/fsharp-71c17f08.js",
@@ -210,25 +210,25 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/graphql-4b2f9989.js",
     "revision": null
   }, {
-    "url": "assets/handlebars-d41911fa.js",
+    "url": "assets/handlebars-97e90408.js",
     "revision": null
   }, {
     "url": "assets/hcl-f5583a08.js",
     "revision": null
   }, {
-    "url": "assets/Header-5f4495bb.js",
+    "url": "assets/Header-a54ed509.js",
     "revision": null
   }, {
-    "url": "assets/html-b3da29a9.js",
+    "url": "assets/html-3696e0aa.js",
     "revision": null
   }, {
-    "url": "assets/htmlMode-5f9ed2b3.js",
+    "url": "assets/htmlMode-fa3d341c.js",
     "revision": null
   }, {
-    "url": "assets/index-1cca78b2.css",
+    "url": "assets/index-886a0fbf.js",
     "revision": null
   }, {
-    "url": "assets/index-c7dd60b4.js",
+    "url": "assets/index-977eb108.css",
     "revision": null
   }, {
     "url": "assets/ini-93327bda.js",
@@ -252,10 +252,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/java-594fa86f.js",
     "revision": null
   }, {
-    "url": "assets/javascript-274c87d1.js",
+    "url": "assets/javascript-28637623.js",
     "revision": null
   }, {
-    "url": "assets/jsonMode-e98a698c.js",
+    "url": "assets/jsonMode-51286759.js",
     "revision": null
   }, {
     "url": "assets/julia-0007448b.js",
@@ -387,7 +387,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/lexon-9e065f08.js",
     "revision": null
   }, {
-    "url": "assets/liquid-d1b3505f.js",
+    "url": "assets/liquid-1fb84e20.js",
     "revision": null
   }, {
     "url": "assets/lua-f5c339e1.js",
@@ -444,7 +444,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/pug-2dd33d7b.js",
     "revision": null
   }, {
-    "url": "assets/python-731994cf.js",
+    "url": "assets/python-1eafabf8.js",
     "revision": null
   }, {
     "url": "assets/qsharp-52d3483a.js",
@@ -453,7 +453,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/r-419d1932.js",
     "revision": null
   }, {
-    "url": "assets/razor-83bee4c6.js",
+    "url": "assets/razor-1f66723b.js",
     "revision": null
   }, {
     "url": "assets/redis-48ffdd95.js",
@@ -483,10 +483,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/restructuredtext-2b6de06c.js",
     "revision": null
   }, {
-    "url": "assets/resumes-18e979de.css",
+    "url": "assets/resumes-1020d470.js",
     "revision": null
   }, {
-    "url": "assets/resumes-f8bbaa98.js",
+    "url": "assets/resumes-18e979de.css",
     "revision": null
   }, {
     "url": "assets/ruby-3203ad6f.js",
@@ -534,19 +534,19 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/tcl-ef3a1af5.js",
     "revision": null
   }, {
+    "url": "assets/toast-574f6a3c.js",
+    "revision": null
+  }, {
     "url": "assets/toast-c71f958d.css",
     "revision": null
   }, {
-    "url": "assets/toast-e03703cc.js",
-    "revision": null
-  }, {
-    "url": "assets/tsMode-f71dd7be.js",
+    "url": "assets/tsMode-22678eb7.js",
     "revision": null
   }, {
     "url": "assets/twig-a6c466d1.js",
     "revision": null
   }, {
-    "url": "assets/typescript-272d6800.js",
+    "url": "assets/typescript-704161c9.js",
     "revision": null
   }, {
     "url": "assets/vb-dc8b6e66.js",
@@ -558,32 +558,32 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/w9-6f2841e9.ttf",
     "revision": null
   }, {
-    "url": "assets/xml-5a53e9cd.js",
+    "url": "assets/xml-ae49a2b1.js",
     "revision": null
   }, {
-    "url": "assets/yaml-d0f9dda6.js",
+    "url": "assets/yaml-1263b012.js",
     "revision": null
   }, {
     "url": "edit.html",
-    "revision": "30f2522be7421af0d31291dec7ed2a5b"
+    "revision": "9edb866d5c62e7d7ae21044fbe16bd82"
   }, {
     "url": "index.html",
-    "revision": "c9fb7612ac6e88162985fa1e5fde8f89"
+    "revision": "2da5724184094cdd56dd94502bab15a9"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "resumes.html",
-    "revision": "c526a80dca5070a32806e3150d4be7a6"
+    "revision": "bd78f826cb406c2342763b48569dba03"
   }, {
     "url": "zh-cn/edit.html",
-    "revision": "060da83af300e13510fa2dc3f3559348"
+    "revision": "170a4313454290692748a1fa91fffe07"
   }, {
     "url": "zh-cn/index.html",
-    "revision": "1209bcd8650be05fec41c0034479e716"
+    "revision": "ba628c570eccd7061d40fb143a6657d1"
   }, {
     "url": "zh-cn/resumes.html",
-    "revision": "60bbe96bb8ff9756e887e6bf8ffce3f4"
+    "revision": "f87023bc58aaed2bea9a0dd4d7b106a7"
   }, {
     "url": "pwa-192x192.png",
     "revision": "e3ee23607a02913fa308a010c3f732be"
