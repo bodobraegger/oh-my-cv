@@ -565,25 +565,25 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "edit.html",
-    "revision": "5326f95483cb96557db4332570e75856"
+    "revision": "d3e6732021e72698c3d7ba3caa4d2277"
   }, {
     "url": "index.html",
-    "revision": "563e3d5b40e3d85fd5cfcb4ac90265f6"
+    "revision": "c0b0f09097f52895c59aabca7f78acc3"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "resumes.html",
-    "revision": "e39548a162310b155c3095c2a04686a6"
+    "revision": "e674d4540f1dac620786b834f6f57511"
   }, {
     "url": "zh-cn/edit.html",
-    "revision": "7708c7b96b33e5bec50e8cef4da05807"
+    "revision": "2454e86f7eeb37cbebe2ee87a4518228"
   }, {
     "url": "zh-cn/index.html",
-    "revision": "f4caaa96bea4ecf5eb48c67a86bab9fd"
+    "revision": "14eb7613255ec13ed63edde8fd227368"
   }, {
     "url": "zh-cn/resumes.html",
-    "revision": "55e8ba80c136589aeb08f4f4f0c9875f"
+    "revision": "ffcf0dce2e1c63a802362b8974ea6bdf"
   }, {
     "url": "pwa-192x192.png",
     "revision": "e3ee23607a02913fa308a010c3f732be"
