@@ -84,7 +84,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/apex-0b2071d4.js",
     "revision": null
   }, {
-    "url": "assets/app-926948a0.js",
+    "url": "assets/app-b7ef0062.js",
     "revision": null
   }, {
     "url": "assets/azcli-190356b5.js",
@@ -159,7 +159,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/css.worker-99e39b79.js",
     "revision": null
   }, {
-    "url": "assets/cssMode-a5c41591.js",
+    "url": "assets/cssMode-2de6ba0a.js",
     "revision": null
   }, {
     "url": "assets/cypher-cba4566f.js",
@@ -177,13 +177,13 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/edit-0bd70166.css",
     "revision": null
   }, {
-    "url": "assets/edit-955a17f9.js",
+    "url": "assets/edit-123d1367.js",
     "revision": null
   }, {
     "url": "assets/editor-c8553017.css",
     "revision": null
   }, {
-    "url": "assets/editor.main-0eb410bf.js",
+    "url": "assets/editor.main-ba206551.js",
     "revision": null
   }, {
     "url": "assets/editor.worker-db229822.js",
@@ -198,7 +198,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/flow9-38712bd3.js",
     "revision": null
   }, {
-    "url": "assets/freemarker2-9cd7cae7.js",
+    "url": "assets/freemarker2-fddbcc00.js",
     "revision": null
   }, {
     "url": "assets/fsharp-71c17f08.js",
@@ -210,22 +210,22 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/graphql-4b2f9989.js",
     "revision": null
   }, {
-    "url": "assets/handlebars-11a2ded2.js",
+    "url": "assets/handlebars-8668f7e4.js",
     "revision": null
   }, {
     "url": "assets/hcl-f5583a08.js",
     "revision": null
   }, {
-    "url": "assets/Header-61bf9dc8.js",
+    "url": "assets/Header-2593cd21.js",
     "revision": null
   }, {
-    "url": "assets/html-593057c5.js",
+    "url": "assets/html-4a4f8fe5.js",
     "revision": null
   }, {
-    "url": "assets/htmlMode-cc1e4a05.js",
+    "url": "assets/htmlMode-f1dbe6e0.js",
     "revision": null
   }, {
-    "url": "assets/index-22eeea09.js",
+    "url": "assets/index-3df5382c.js",
     "revision": null
   }, {
     "url": "assets/index-977eb108.css",
@@ -252,10 +252,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/java-594fa86f.js",
     "revision": null
   }, {
-    "url": "assets/javascript-325cc061.js",
+    "url": "assets/javascript-c5c3418b.js",
     "revision": null
   }, {
-    "url": "assets/jsonMode-d8dfc47d.js",
+    "url": "assets/jsonMode-49730c0a.js",
     "revision": null
   }, {
     "url": "assets/julia-0007448b.js",
@@ -387,7 +387,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/lexon-9e065f08.js",
     "revision": null
   }, {
-    "url": "assets/liquid-f685ab38.js",
+    "url": "assets/liquid-374a2fcc.js",
     "revision": null
   }, {
     "url": "assets/lua-f5c339e1.js",
@@ -444,7 +444,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/pug-2dd33d7b.js",
     "revision": null
   }, {
-    "url": "assets/python-81437c72.js",
+    "url": "assets/python-7e1e153b.js",
     "revision": null
   }, {
     "url": "assets/qsharp-52d3483a.js",
@@ -453,7 +453,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/r-419d1932.js",
     "revision": null
   }, {
-    "url": "assets/razor-1cd5913c.js",
+    "url": "assets/razor-b0a0252e.js",
     "revision": null
   }, {
     "url": "assets/redis-48ffdd95.js",
@@ -483,10 +483,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/restructuredtext-2b6de06c.js",
     "revision": null
   }, {
-    "url": "assets/resumes-18e979de.css",
+    "url": "assets/resumes-04df293e.js",
     "revision": null
   }, {
-    "url": "assets/resumes-44bc6f5b.js",
+    "url": "assets/resumes-18e979de.css",
     "revision": null
   }, {
     "url": "assets/ruby-3203ad6f.js",
@@ -534,19 +534,19 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/tcl-ef3a1af5.js",
     "revision": null
   }, {
-    "url": "assets/toast-a8f2e09e.js",
-    "revision": null
-  }, {
     "url": "assets/toast-c71f958d.css",
     "revision": null
   }, {
-    "url": "assets/tsMode-fd260e5d.js",
+    "url": "assets/toast-d7a8644f.js",
+    "revision": null
+  }, {
+    "url": "assets/tsMode-0b4655c3.js",
     "revision": null
   }, {
     "url": "assets/twig-a6c466d1.js",
     "revision": null
   }, {
-    "url": "assets/typescript-299f951b.js",
+    "url": "assets/typescript-decf664b.js",
     "revision": null
   }, {
     "url": "assets/vb-dc8b6e66.js",
@@ -558,32 +558,32 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/w9-6f2841e9.ttf",
     "revision": null
   }, {
-    "url": "assets/xml-17a4a3aa.js",
+    "url": "assets/xml-72b6f2bf.js",
     "revision": null
   }, {
-    "url": "assets/yaml-76ac6386.js",
+    "url": "assets/yaml-6bdf330f.js",
     "revision": null
   }, {
     "url": "edit.html",
-    "revision": "f08a4c1708fc1fe92c7f9fcbbdabc300"
+    "revision": "1669ecc538b342d752218a2ea499a608"
   }, {
     "url": "index.html",
-    "revision": "98d63601abb59ace427aa799b315b8ca"
+    "revision": "3fdfc34a9093d2b4299b724f08c1201b"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "resumes.html",
-    "revision": "9fdfaa025ab8eb9c01eaf4a4adeeaeda"
+    "revision": "a90a28102f8406e67f4e6feba4c1be21"
   }, {
     "url": "zh-cn/edit.html",
-    "revision": "3d83675831ebbcae093035e04554ff39"
+    "revision": "affe532194225dc601c6b0c86d3d0326"
   }, {
     "url": "zh-cn/index.html",
-    "revision": "6595b1db11b60b859dfe7a76a3594957"
+    "revision": "3268c783688db4b4e60c95f1e9b41947"
   }, {
     "url": "zh-cn/resumes.html",
-    "revision": "05abecd064afa98591d8d6db13a89e50"
+    "revision": "028d56ba98e3f2fc50c076c38791263f"
   }, {
     "url": "pwa-192x192.png",
     "revision": "e3ee23607a02913fa308a010c3f732be"
