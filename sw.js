@@ -78,22 +78,22 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/abap-5fd096f7.js",
+    "url": "assets/abap-42d5eca7.js",
     "revision": null
   }, {
-    "url": "assets/apex-0b2071d4.js",
+    "url": "assets/apex-7148dbcf.js",
     "revision": null
   }, {
-    "url": "assets/app-b7ef0062.js",
+    "url": "assets/app-2231754e.js",
     "revision": null
   }, {
-    "url": "assets/azcli-190356b5.js",
+    "url": "assets/azcli-ad3d7346.js",
     "revision": null
   }, {
-    "url": "assets/bat-8a29f90f.js",
+    "url": "assets/bat-0217c0bc.js",
     "revision": null
   }, {
-    "url": "assets/bicep-2030a195.js",
+    "url": "assets/bicep-0cadb30a.js",
     "revision": null
   }, {
     "url": "assets/bold-0c23bf01.otf",
@@ -129,109 +129,109 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/bolditalic-c8c10983.otf",
     "revision": null
   }, {
-    "url": "assets/cameligo-e329b2f4.js",
+    "url": "assets/cameligo-ac55f854.js",
     "revision": null
   }, {
-    "url": "assets/clojure-bbb8ba32.js",
+    "url": "assets/clojure-388a0d58.js",
     "revision": null
   }, {
     "url": "assets/codicon-bff90e92.ttf",
     "revision": null
   }, {
-    "url": "assets/coffee-acac9422.js",
+    "url": "assets/coffee-7e7a2971.js",
     "revision": null
   }, {
-    "url": "assets/cpp-9d6a58b0.js",
+    "url": "assets/cpp-840d082a.js",
     "revision": null
   }, {
-    "url": "assets/csharp-91d9f9d8.js",
+    "url": "assets/csharp-b3429875.js",
     "revision": null
   }, {
-    "url": "assets/csp-763000e4.js",
+    "url": "assets/csp-83442b86.js",
     "revision": null
   }, {
-    "url": "assets/css-d9a05d7d.js",
+    "url": "assets/css-7a34b8c3.js",
     "revision": null
   }, {
-    "url": "assets/css.worker-4a7f45a7.js",
+    "url": "assets/css.worker-968828ae.js",
     "revision": null
   }, {
-    "url": "assets/css.worker-99e39b79.js",
+    "url": "assets/css.worker-b170d031.js",
     "revision": null
   }, {
-    "url": "assets/cssMode-2de6ba0a.js",
+    "url": "assets/cssMode-7ab651bb.js",
     "revision": null
   }, {
-    "url": "assets/cypher-cba4566f.js",
+    "url": "assets/cypher-cc9c23cc.js",
     "revision": null
   }, {
-    "url": "assets/dart-30a82b35.js",
+    "url": "assets/dart-00a58d1c.js",
     "revision": null
   }, {
-    "url": "assets/dockerfile-2a29d833.js",
+    "url": "assets/dockerfile-668ee825.js",
     "revision": null
   }, {
-    "url": "assets/ecl-c14b226e.js",
+    "url": "assets/ecl-b42ffd48.js",
     "revision": null
   }, {
     "url": "assets/edit-0bd70166.css",
     "revision": null
   }, {
-    "url": "assets/edit-123d1367.js",
+    "url": "assets/edit-c746b671.js",
     "revision": null
   }, {
-    "url": "assets/editor-c8553017.css",
+    "url": "assets/editor-0f9ebfae.css",
     "revision": null
   }, {
-    "url": "assets/editor.main-ba206551.js",
+    "url": "assets/editor.main-92111c62.js",
     "revision": null
   }, {
-    "url": "assets/editor.worker-db229822.js",
+    "url": "assets/editor.worker-6aeb88a5.js",
     "revision": null
   }, {
-    "url": "assets/editor.worker-ef2c91c3.js",
+    "url": "assets/editor.worker-d809e5e3.js",
     "revision": null
   }, {
-    "url": "assets/elixir-4a1aad71.js",
+    "url": "assets/elixir-b9ceca92.js",
     "revision": null
   }, {
-    "url": "assets/flow9-38712bd3.js",
+    "url": "assets/flow9-7e9b2e50.js",
     "revision": null
   }, {
-    "url": "assets/freemarker2-fddbcc00.js",
+    "url": "assets/freemarker2-474c65ec.js",
     "revision": null
   }, {
-    "url": "assets/fsharp-71c17f08.js",
+    "url": "assets/fsharp-cdc5b8f1.js",
     "revision": null
   }, {
-    "url": "assets/go-81a01631.js",
+    "url": "assets/go-4c92fa5c.js",
     "revision": null
   }, {
-    "url": "assets/graphql-4b2f9989.js",
+    "url": "assets/graphql-67842079.js",
     "revision": null
   }, {
-    "url": "assets/handlebars-8668f7e4.js",
+    "url": "assets/handlebars-112f7f36.js",
     "revision": null
   }, {
-    "url": "assets/hcl-f5583a08.js",
+    "url": "assets/hcl-59febf1c.js",
     "revision": null
   }, {
-    "url": "assets/Header-2593cd21.js",
+    "url": "assets/Header-99986b8c.js",
     "revision": null
   }, {
-    "url": "assets/html-4a4f8fe5.js",
+    "url": "assets/html-eb0f767e.js",
     "revision": null
   }, {
-    "url": "assets/htmlMode-f1dbe6e0.js",
+    "url": "assets/htmlMode-76f73851.js",
     "revision": null
   }, {
-    "url": "assets/index-3df5382c.js",
+    "url": "assets/index-5ffe2786.css",
     "revision": null
   }, {
-    "url": "assets/index-977eb108.css",
+    "url": "assets/index-8629620c.js",
     "revision": null
   }, {
-    "url": "assets/ini-93327bda.js",
+    "url": "assets/ini-1cf2ce67.js",
     "revision": null
   }, {
     "url": "assets/italic-486752be.otf",
@@ -249,16 +249,16 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/italic-fa084936.ttf",
     "revision": null
   }, {
-    "url": "assets/java-594fa86f.js",
+    "url": "assets/java-e4fb14c6.js",
     "revision": null
   }, {
-    "url": "assets/javascript-c5c3418b.js",
+    "url": "assets/javascript-c937f6ac.js",
     "revision": null
   }, {
-    "url": "assets/jsonMode-49730c0a.js",
+    "url": "assets/jsonMode-65559260.js",
     "revision": null
   }, {
-    "url": "assets/julia-0007448b.js",
+    "url": "assets/julia-0402747e.js",
     "revision": null
   }, {
     "url": "assets/KaTeX_AMS-Regular-0cdd387c.woff2",
@@ -378,88 +378,88 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/KaTeX_Typewriter-Regular-f01f3e87.ttf",
     "revision": null
   }, {
-    "url": "assets/kotlin-d96111b8.js",
+    "url": "assets/kotlin-b66c14ff.js",
     "revision": null
   }, {
-    "url": "assets/less-35bca26e.js",
+    "url": "assets/less-8dc8685d.js",
     "revision": null
   }, {
-    "url": "assets/lexon-9e065f08.js",
+    "url": "assets/lexon-59c0b911.js",
     "revision": null
   }, {
-    "url": "assets/liquid-374a2fcc.js",
+    "url": "assets/liquid-5a1f7a69.js",
     "revision": null
   }, {
-    "url": "assets/lua-f5c339e1.js",
+    "url": "assets/lua-3f4d9098.js",
     "revision": null
   }, {
-    "url": "assets/m3-f481ba01.js",
+    "url": "assets/m3-82a8c502.js",
     "revision": null
   }, {
-    "url": "assets/markdown-9daa6125.js",
+    "url": "assets/markdown-07c3fa1e.js",
     "revision": null
   }, {
-    "url": "assets/mips-9083c690.js",
+    "url": "assets/mips-59ddf2f4.js",
     "revision": null
   }, {
-    "url": "assets/msdax-407492d3.js",
+    "url": "assets/msdax-12ec689c.js",
     "revision": null
   }, {
-    "url": "assets/mysql-58db6cae.js",
+    "url": "assets/mysql-2958efa4.js",
     "revision": null
   }, {
-    "url": "assets/objective-c-af4e0f63.js",
+    "url": "assets/objective-c-08d94025.js",
     "revision": null
   }, {
-    "url": "assets/pascal-63b284c9.js",
+    "url": "assets/pascal-b686b438.js",
     "revision": null
   }, {
-    "url": "assets/pascaligo-2b3d65f2.js",
+    "url": "assets/pascaligo-96457e5f.js",
     "revision": null
   }, {
-    "url": "assets/perl-b4e06d57.js",
+    "url": "assets/perl-b938bdad.js",
     "revision": null
   }, {
-    "url": "assets/pgsql-7382e5ae.js",
+    "url": "assets/pgsql-42970e97.js",
     "revision": null
   }, {
-    "url": "assets/php-135114d3.js",
+    "url": "assets/php-7476401f.js",
     "revision": null
   }, {
-    "url": "assets/pla-745ec9ce.js",
+    "url": "assets/pla-aaf0caa2.js",
     "revision": null
   }, {
-    "url": "assets/postiats-a3fe4f4c.js",
+    "url": "assets/postiats-759ff404.js",
     "revision": null
   }, {
-    "url": "assets/powerquery-47747fc0.js",
+    "url": "assets/powerquery-a33a8de4.js",
     "revision": null
   }, {
-    "url": "assets/powershell-ff3577bc.js",
+    "url": "assets/powershell-ec154f36.js",
     "revision": null
   }, {
-    "url": "assets/protobuf-6deb4a02.js",
+    "url": "assets/protobuf-e42d83dc.js",
     "revision": null
   }, {
-    "url": "assets/pug-2dd33d7b.js",
+    "url": "assets/pug-04b2d67c.js",
     "revision": null
   }, {
-    "url": "assets/python-7e1e153b.js",
+    "url": "assets/python-269207c7.js",
     "revision": null
   }, {
-    "url": "assets/qsharp-52d3483a.js",
+    "url": "assets/qsharp-5376e9d1.js",
     "revision": null
   }, {
-    "url": "assets/r-419d1932.js",
+    "url": "assets/r-d212ba98.js",
     "revision": null
   }, {
-    "url": "assets/razor-b0a0252e.js",
+    "url": "assets/razor-529861c1.js",
     "revision": null
   }, {
-    "url": "assets/redis-48ffdd95.js",
+    "url": "assets/redis-51e44009.js",
     "revision": null
   }, {
-    "url": "assets/redshift-6f3b6438.js",
+    "url": "assets/redshift-8de2cfdc.js",
     "revision": null
   }, {
     "url": "assets/regular-1d4d14f6.ttf",
@@ -480,76 +480,76 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/regular-e6173472.ttf",
     "revision": null
   }, {
-    "url": "assets/restructuredtext-2b6de06c.js",
-    "revision": null
-  }, {
-    "url": "assets/resumes-04df293e.js",
+    "url": "assets/restructuredtext-3f99254a.js",
     "revision": null
   }, {
     "url": "assets/resumes-18e979de.css",
     "revision": null
   }, {
-    "url": "assets/ruby-3203ad6f.js",
+    "url": "assets/resumes-dc4fb0c3.js",
     "revision": null
   }, {
-    "url": "assets/rust-db058ad8.js",
+    "url": "assets/ruby-64a73e64.js",
     "revision": null
   }, {
-    "url": "assets/sb-2e6261d9.js",
+    "url": "assets/rust-2a0390f1.js",
     "revision": null
   }, {
-    "url": "assets/scala-9479f128.js",
+    "url": "assets/sb-4d8fa557.js",
     "revision": null
   }, {
-    "url": "assets/scheme-eff94c99.js",
+    "url": "assets/scala-00d62260.js",
     "revision": null
   }, {
-    "url": "assets/scss-47fd4d15.js",
+    "url": "assets/scheme-a0903f29.js",
     "revision": null
   }, {
-    "url": "assets/shell-6ce95083.js",
+    "url": "assets/scss-3e25f7ad.js",
     "revision": null
   }, {
-    "url": "assets/solidity-05bce190.js",
+    "url": "assets/shell-9c442847.js",
     "revision": null
   }, {
-    "url": "assets/sophia-0df3b455.js",
+    "url": "assets/solidity-6b3049ed.js",
     "revision": null
   }, {
-    "url": "assets/sparql-82e631b6.js",
+    "url": "assets/sophia-f4a2b303.js",
     "revision": null
   }, {
-    "url": "assets/sql-ba093187.js",
+    "url": "assets/sparql-1d37a384.js",
     "revision": null
   }, {
-    "url": "assets/st-791b0ff5.js",
+    "url": "assets/sql-946641be.js",
     "revision": null
   }, {
-    "url": "assets/swift-4e23775b.js",
+    "url": "assets/st-806617f8.js",
     "revision": null
   }, {
-    "url": "assets/systemverilog-ad58bd79.js",
+    "url": "assets/swift-06592b81.js",
     "revision": null
   }, {
-    "url": "assets/tcl-ef3a1af5.js",
+    "url": "assets/systemverilog-b5ba493c.js",
+    "revision": null
+  }, {
+    "url": "assets/tcl-3fe51e69.js",
+    "revision": null
+  }, {
+    "url": "assets/toast-23b586a0.js",
     "revision": null
   }, {
     "url": "assets/toast-c71f958d.css",
     "revision": null
   }, {
-    "url": "assets/toast-d7a8644f.js",
+    "url": "assets/tsMode-ed93d893.js",
     "revision": null
   }, {
-    "url": "assets/tsMode-0b4655c3.js",
+    "url": "assets/twig-ee0f3b03.js",
     "revision": null
   }, {
-    "url": "assets/twig-a6c466d1.js",
+    "url": "assets/typescript-cb8cd17e.js",
     "revision": null
   }, {
-    "url": "assets/typescript-decf664b.js",
-    "revision": null
-  }, {
-    "url": "assets/vb-dc8b6e66.js",
+    "url": "assets/vb-e7e59935.js",
     "revision": null
   }, {
     "url": "assets/w7-ac4be974.ttf",
@@ -558,32 +558,32 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/w9-6f2841e9.ttf",
     "revision": null
   }, {
-    "url": "assets/xml-72b6f2bf.js",
+    "url": "assets/xml-af17cdfe.js",
     "revision": null
   }, {
-    "url": "assets/yaml-6bdf330f.js",
+    "url": "assets/yaml-76f1bf8d.js",
     "revision": null
   }, {
     "url": "edit.html",
-    "revision": "1669ecc538b342d752218a2ea499a608"
+    "revision": "8c8992f5bff1a91a09e90625b57dbcd0"
   }, {
     "url": "index.html",
-    "revision": "3fdfc34a9093d2b4299b724f08c1201b"
+    "revision": "55e41aff24d1cf3e129187907565465c"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "resumes.html",
-    "revision": "a90a28102f8406e67f4e6feba4c1be21"
+    "revision": "4b2d647de78d53d0e9de390077485c6f"
   }, {
     "url": "zh-cn/edit.html",
-    "revision": "affe532194225dc601c6b0c86d3d0326"
+    "revision": "e674a486587a0e8729727fcb4b2c07ec"
   }, {
     "url": "zh-cn/index.html",
-    "revision": "3268c783688db4b4e60c95f1e9b41947"
+    "revision": "9ca932447a6438f86d723456b243d66e"
   }, {
     "url": "zh-cn/resumes.html",
-    "revision": "028d56ba98e3f2fc50c076c38791263f"
+    "revision": "e335327af546d5d744fa9a4f59afae87"
   }, {
     "url": "pwa-192x192.png",
     "revision": "e3ee23607a02913fa308a010c3f732be"
