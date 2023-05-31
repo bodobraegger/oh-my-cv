@@ -84,7 +84,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/apex-cfc8f5f9.js",
     "revision": null
   }, {
-    "url": "assets/app-545da3df.js",
+    "url": "assets/app-db01c0ad.js",
     "revision": null
   }, {
     "url": "assets/azcli-3065b420.js",
@@ -165,7 +165,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/css.worker-1e6ffabe.js",
     "revision": null
   }, {
-    "url": "assets/cssMode-2706f0a4.js",
+    "url": "assets/cssMode-178c7cc2.js",
     "revision": null
   }, {
     "url": "assets/cypher-c8c514a1.js",
@@ -180,16 +180,16 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/ecl-4151d6b3.js",
     "revision": null
   }, {
-    "url": "assets/edit-0bd70166.css",
+    "url": "assets/edit-026230dc.js",
     "revision": null
   }, {
-    "url": "assets/edit-30be7747.js",
+    "url": "assets/edit-0bd70166.css",
     "revision": null
   }, {
     "url": "assets/editor-1257780a.css",
     "revision": null
   }, {
-    "url": "assets/editor.main-094b9f1a.js",
+    "url": "assets/editor.main-5693d548.js",
     "revision": null
   }, {
     "url": "assets/editor.worker-6edfeaa5.js",
@@ -204,7 +204,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/flow9-dd227f65.js",
     "revision": null
   }, {
-    "url": "assets/freemarker2-59c35eec.js",
+    "url": "assets/freemarker2-bd3050d1.js",
     "revision": null
   }, {
     "url": "assets/fsharp-86578ff6.js",
@@ -216,25 +216,25 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/graphql-fa9affca.js",
     "revision": null
   }, {
-    "url": "assets/handlebars-beaa3ad3.js",
+    "url": "assets/handlebars-4f7db879.js",
     "revision": null
   }, {
     "url": "assets/hcl-b8ae35e9.js",
     "revision": null
   }, {
-    "url": "assets/Header-b533b9c2.js",
+    "url": "assets/Header-5a2fa89b.js",
     "revision": null
   }, {
-    "url": "assets/html-1e2285dd.js",
+    "url": "assets/html-9a5c3cb6.js",
     "revision": null
   }, {
-    "url": "assets/htmlMode-8e06c3ba.js",
+    "url": "assets/htmlMode-0f0db840.js",
+    "revision": null
+  }, {
+    "url": "assets/index-4b039236.js",
     "revision": null
   }, {
     "url": "assets/index-5dbf335e.css",
-    "revision": null
-  }, {
-    "url": "assets/index-84dc3a90.js",
     "revision": null
   }, {
     "url": "assets/ini-890acc80.js",
@@ -261,10 +261,10 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/java-049a60a4.js",
     "revision": null
   }, {
-    "url": "assets/javascript-50734ecd.js",
+    "url": "assets/javascript-1a7a6c8c.js",
     "revision": null
   }, {
-    "url": "assets/jsonMode-3446925f.js",
+    "url": "assets/jsonMode-eadd4593.js",
     "revision": null
   }, {
     "url": "assets/julia-191b0a82.js",
@@ -396,7 +396,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/lexon-9ea3fed0.js",
     "revision": null
   }, {
-    "url": "assets/liquid-33cf732e.js",
+    "url": "assets/liquid-b879c443.js",
     "revision": null
   }, {
     "url": "assets/lua-33bafe35.js",
@@ -453,7 +453,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/pug-49898a0c.js",
     "revision": null
   }, {
-    "url": "assets/python-504802c3.js",
+    "url": "assets/python-36451411.js",
     "revision": null
   }, {
     "url": "assets/qsharp-23f836f6.js",
@@ -462,7 +462,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/r-0e40c708.js",
     "revision": null
   }, {
-    "url": "assets/razor-c12e163a.js",
+    "url": "assets/razor-aa8ecc73.js",
     "revision": null
   }, {
     "url": "assets/redis-12380799.js",
@@ -498,7 +498,7 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/resumes-18e979de.css",
     "revision": null
   }, {
-    "url": "assets/resumes-f7a001e5.js",
+    "url": "assets/resumes-894cb467.js",
     "revision": null
   }, {
     "url": "assets/ruby-60abc7e3.js",
@@ -546,19 +546,19 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/tcl-7e0fc706.js",
     "revision": null
   }, {
-    "url": "assets/toast-92390732.js",
+    "url": "assets/toast-0b9971a8.js",
     "revision": null
   }, {
     "url": "assets/toast-c71f958d.css",
     "revision": null
   }, {
-    "url": "assets/tsMode-b94cfeed.js",
+    "url": "assets/tsMode-34038c81.js",
     "revision": null
   }, {
     "url": "assets/twig-19bf3459.js",
     "revision": null
   }, {
-    "url": "assets/typescript-d643a56f.js",
+    "url": "assets/typescript-3a37f58d.js",
     "revision": null
   }, {
     "url": "assets/vb-0af9cc51.js",
@@ -573,32 +573,32 @@ define(['./workbox-479852ff'], (function (workbox) { 'use strict';
     "url": "assets/wgsl-1cc19b4d.js",
     "revision": null
   }, {
-    "url": "assets/xml-b1447435.js",
+    "url": "assets/xml-7c45a72b.js",
     "revision": null
   }, {
-    "url": "assets/yaml-36997e9e.js",
+    "url": "assets/yaml-15c67bbb.js",
     "revision": null
   }, {
     "url": "edit.html",
-    "revision": "1321532767f5b9ad1b23e98d9859d3ac"
+    "revision": "6b8468815ed3cde980ec2dcb1f4dc694"
   }, {
     "url": "index.html",
-    "revision": "7cf06140c21e76bd487a9e4845f8f640"
+    "revision": "731a8344e605adf6150638f9de2fede1"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
   }, {
     "url": "resumes.html",
-    "revision": "1435bffbf2e99c109941c4f08fa836d9"
+    "revision": "082ccc0a3d5e2e45804aceb34a108841"
   }, {
     "url": "zh-cn/edit.html",
-    "revision": "398802735fd2cb6a366e42733d721ac7"
+    "revision": "f825471f7e0f64a19a282713592c5c16"
   }, {
     "url": "zh-cn/index.html",
-    "revision": "f6a74aeb9e70ed21e7093b137e70bd1e"
+    "revision": "5de17346b574755016f7a98b78b9864c"
   }, {
     "url": "zh-cn/resumes.html",
-    "revision": "925b91a5ddc529d5f52ed7d07b787612"
+    "revision": "2a95b32eaddd6a3d091c5e47c2c51657"
   }, {
     "url": "pwa-192x192.png",
     "revision": "e3ee23607a02913fa308a010c3f732be"
