@@ -2,7 +2,7 @@ define(['exports'], (function (exports) { 'use strict';
 
     // @ts-ignore
     try {
-      self['workbox:core:6.5.3'] && _();
+      self['workbox:core:7.0.0'] && _();
     } catch (e) {}
 
     /*
@@ -14,7 +14,7 @@ define(['exports'], (function (exports) { 'use strict';
     const logger = (() => {
       // Don't overwrite this value if it's already set.
       // See https://github.com/GoogleChrome/workbox/pull/2284#issuecomment-560470923
-      if (!('__WB_DISABLE_DEV_LOGS' in self)) {
+      if (!('__WB_DISABLE_DEV_LOGS' in globalThis)) {
         self.__WB_DISABLE_DEV_LOGS = false;
       }
       let inGroup = false;
@@ -456,7 +456,7 @@ define(['exports'], (function (exports) { 'use strict';
 
     // @ts-ignore
     try {
-      self['workbox:routing:6.5.3'] && _();
+      self['workbox:routing:7.0.0'] && _();
     } catch (e) {}
 
     /*
@@ -1548,7 +1548,7 @@ define(['exports'], (function (exports) { 'use strict';
 
     // @ts-ignore
     try {
-      self['workbox:expiration:6.5.3'] && _();
+      self['workbox:expiration:7.0.0'] && _();
     } catch (e) {}
 
     /*
@@ -2142,7 +2142,7 @@ define(['exports'], (function (exports) { 'use strict';
 
     // @ts-ignore
     try {
-      self['workbox:cacheable-response:6.5.3'] && _();
+      self['workbox:cacheable-response:7.0.0'] && _();
     } catch (e) {}
 
     /*
@@ -2426,7 +2426,7 @@ define(['exports'], (function (exports) { 'use strict';
 
     // @ts-ignore
     try {
-      self['workbox:strategies:6.5.3'] && _();
+      self['workbox:strategies:7.0.0'] && _();
     } catch (e) {}
 
     /*
@@ -3297,7 +3297,7 @@ define(['exports'], (function (exports) { 'use strict';
 
     // @ts-ignore
     try {
-      self['workbox:precaching:6.5.3'] && _();
+      self['workbox:precaching:7.0.0'] && _();
     } catch (e) {}
 
     /*
