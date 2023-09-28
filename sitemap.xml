@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <lastmod>2023-09-28T20:12:38+00:00</lastmod>
+        <lastmod>2023-09-28T20:16:20+00:00</lastmod>
         <loc>https://ohmycv.app/</loc>
     </url>
     <url>
-        <lastmod>2023-09-28T20:12:38+00:00</lastmod>
+        <lastmod>2023-09-28T20:16:20+00:00</lastmod>
         <loc>https://ohmycv.app/edit</loc>
     </url>
     <url>
-        <lastmod>2023-09-28T20:12:38+00:00</lastmod>
+        <lastmod>2023-09-28T20:16:20+00:00</lastmod>
         <loc>https://ohmycv.app/resumes</loc>
     </url>
     <url>
-        <lastmod>2023-09-28T20:12:38+00:00</lastmod>
+        <lastmod>2023-09-28T20:16:20+00:00</lastmod>
         <loc>https://ohmycv.app/zh-cn</loc>
     </url>
     <url>
-        <lastmod>2023-09-28T20:12:38+00:00</lastmod>
+        <lastmod>2023-09-28T20:16:20+00:00</lastmod>
         <loc>https://ohmycv.app/zh-cn/edit</loc>
     </url>
     <url>
-        <lastmod>2023-09-28T20:12:38+00:00</lastmod>
+        <lastmod>2023-09-28T20:16:20+00:00</lastmod>
         <loc>https://ohmycv.app/zh-cn/resumes</loc>
     </url>
 </urlset>
